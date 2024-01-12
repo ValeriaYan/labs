@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab21</string>
+    <string name="title">Locale Application</string>
+    <string name="content">Hello world!</string>
+</resources>
